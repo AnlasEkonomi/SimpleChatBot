@@ -1,0 +1,253 @@
+{
+  "intents": [
+    {
+      "tag": "selamlama",
+      "patterns": [
+        "Merhaba",
+        "İyi günler",
+        "Günaydın",
+        "İyi akşamlar",
+        "Merhabalar",
+        "Kolay gelsin",
+        "Selamlar",
+        "Selam"
+      ],
+      "responses": [
+        "Merhaba! AssisTT ailesine hoş geldiniz, size nasıl yardımcı olabilirim?",
+        "İyi günler! AssisTT ailesine hoş geldiniz, buyurun nasıl yardımcı olabilirim?",
+        "AssisTT ailesine hoş geldiniz. Ben AssisTT sanal asistanıyım, size nasıl yardımcı olabilirim?"
+      ]
+    },
+    {
+      "tag": "hakkında",
+      "patterns": [
+        "Siz kimsiniz?",
+        "Şirketiniz hakkında bilgi verir misiniz?",
+        "Şirketiniz hakkında genel bir bilgi alabilir miyiz?",
+        "Kurumsal kimliğiniz ve faaliyet alanlarınız hakkında bilgi paylaşabilir misiniz?",
+        "Vizyonunuz ve misyonunuz nedir?"
+      ],
+      "responses": [
+        "Kasım 2007'de yüzde yüz Türk Telekom iştiraki olarak kurulan AssisTT; iletişim merkezi çözümleri, dijital servisler ve teknoloji çözümleri, müşteri deneyimi ve kalite çözümleri ile dış kaynak yönetimi kategorilerinde sektörlere özel çözümler sunmaktadır. Türkiye genelinde 2022 yılı üçüncü çeyrek sonu itibarıyla 18 bine yakın çalışanıyla çözüm sunan AssisTT, 16 yıllık tecrübesinin yanı sıra, sektörlere özel teknolojik çözümleriyle müşterilerine katma değer yaratarak eşsiz bir deneyim yaşatmayı hedeflemektedir. Gayemiz hayatına dokunduğumuz tüm paydaşlarımıza mutlu deneyimler yaşatmak, vizyonumuz geleceği şekillendiren çözümlerimizle, müşteri deneyiminde referans noktası olmak, misyonumuz teknolojik müşteri deneyimi çözümlerimizle tüm paydaşlarımız için stratejik yol arkadaşı olmak."
+      ]
+    },
+    {
+      "tag": "telefon",
+      "patterns": [
+        "Telefonunuz nedir?",
+        "İletişim bilgileriniz nedir?",
+        "İletişim nasıl sağlayabilirim?",
+        "Size nasıl ulaşabilirim?"
+      ],
+      "responses": [
+        "AssisTT Genel Müdürlük Adresi: Kocayol Cad, Kerem Bey Sk. No:2, 34744 Bostancı/İstanbul, Telefon: +90 216 666 44 44, E-Posta: kurumsaliletisim@assistt.com.tr"
+      ]
+    },
+    {
+      "tag": "sss1",
+      "patterns": [
+        "İş fırsatlarınızdan nasıl haberdar olabilirim?",
+        "İş ilanlarınızı nereden takip edebilirim?",
+        "İş ilanlarınız nerede?",
+        "İş ilanlarınız nerede yayınlanıyor?",
+        "Kariyer fırsatlarınızı nereden takip edebilirim?"
+      ],
+      "responses": [
+        "Kariyer fırsatlarımızı kariyer.assistt.com.tr, Linkedin, kariyer.net ve sosyal medya hesaplarımızdan takip edebilirsin."
+      ]
+    },
+    {
+      "tag": "sss2",
+      "patterns": [
+        "İş fırsatlarınız için nasıl başvuru yapabilirim?",
+        "İş fırsatlarınız için nasıl başvuruda bulunabilirim?",
+        "İş ilanlarınız için nereye başvurabilirim?",
+        "İş ilanlarınıza başvurmak istiyorum",
+        "İş ilanlarınıza nasıl başvuru yapabilirim?"
+      ],
+      "responses": [
+        "kariyer.assistt.com.tr ana sayfasındaki “Kariyer Fırsatlarımız” alanından başvurmak istediğin ilana tıklayarak kolay ve hızlı biçimde başvurunu gerçekleştirebilirsin. Linkedin ve Kariyer.net gibi platformlarda yayınlanan ilanlarımızı da inceleyerek başvurabilirsin."
+      ]
+    },
+    {
+      "tag": "sss3",
+      "patterns": [
+        "Başvuruda ilk kriterleriniz nelerdir?",
+        "İş başvurusunda temel kriterleriniz nelerdir?",
+        "Başvurulardaki ilk değerlendirme kriterleriniz nelerdir?",
+        "Başvurulardaki ilk aşamada hangi kriterlere göre değerlendirme yapılır?",
+        "Başvuruları ilk aşamada hangi kritere göre değerlendiriyorsunuz?",
+        "Başvurulardaki ilk aşamada nelere dikkat edilir?"
+      ],
+      "responses": [
+        "Başvurulan pozisyona göre, ilk aşamada eğitim geçmişi, (gereken pozisyonlar için) deneyim, askerlik durumu, yaşanılan il gibi somut kriterlere dikkat ediyoruz. Ayrıca, işe alım süreçlerimize son başvuru ve katılım tarihi gibi hususları da göz önünde bulunduruyoruz."
+      ]
+    },
+    {
+      "tag": "sss4",
+      "patterns": [
+        "Lise mezunlarına iş fırsatı sağlıyor musunuz?",
+        "Lise mezunuyum, iş ilanlarınıza başvurabilir miyim?",
+        "Ben lise mezunuyum, iş fırsatlarınızdan yararlanabilir miyim?"
+      ],
+      "responses": [
+        "Birçok projede, müşteri temsilcisi pozisyonu için en az lise mezunu olma, takım lideri gibi pozisyonlarda ise en az ön lisans mezunu olma kriterini dikkate alıyoruz. Bilgi Teknolojileri, Finans, İnsan Kaynakları benzeri fonksiyonlardaki pozisyonlara başvurabilmek için ise en az lisans mezunu olma şartı arıyoruz."
+      ]
+    },
+    {
+      "tag": "sss5",
+      "patterns": [
+        "Askerlik görevimi tamamlamadan iş başvurusunda bulunabilir miyim?",
+        "Askerliğimi yapmadım.",
+        "Askerlik görevi iş ilanlarında önemli mi?",
+        "Askerlik durumu iş başvurularında nasıl değerlendirilir?",
+        "Askerlik önemli mi?"
+      ],
+      "responses": [
+        "Askerliğini henüz yapmamış adayları, istisnai bazı projelerimiz haricinde, tecil tarihine bakarak değerlendirme sürecine dahil edebiliyoruz."
+      ]
+    },
+    {
+      "tag": "sss6",
+      "patterns": [
+        "Daha önce bir pozisyona başvurdum ve olumsuz cevap aldım. Başka bir pozisyona başvurabilir miyim?",
+        "İş başvurum daha önce reddedildi. Başka bir pozisyona başvurabilir miyim?",
+        "İş başvurum daha önce olumsuz sonuçlandı. Başka bir pozisyona başvurabilir miyim?",
+        "Daha önce başvurum reddedildi. Başka bir pozisyona başvurabilir miyim?"
+      ],
+      "responses": [
+        "Müşteri temsilcisi pozisyonu için ön değerlendirme ya da çevrimiçi görüşmeden olumlu sonuç alamadıysan, değerlendirme sürecine en az 6 ay sonrasında dahil olabilirsin. Bilgi Teknolojileri, Finans, İnsan Kaynakları benzeri fonksiyonlardaki pozisyonlara yaptığın bir başvurudan olumlu yanıt alamadığında, uygun olduğun farklı rollere başvurmanda bir engel bulunmuyor."
+      ]
+    },
+    {
+      "tag": "sss7",
+      "patterns": [
+        "Sistem üzerinden atamış olduğunuz ön değerlendirmeleri tamamladım. Ne zaman geri dönüş alabilirim?",
+        "Ön değerlendirmeyi geçtim. Ne zaman geri dönüş alabilirim?",
+        "Ön sınavları geçtim. Ne zaman geri dönüş olur?"
+      ],
+      "responses": [
+        "Müşteri temsilcisi pozisyonu için atanmış olan ön değerlendirmeleri tamamladıktan sonra, değerlendirme sonucun başarılı ise kısa mesaj yoluyla bilgilendirme yapılır."
+      ]
+    },
+    {
+      "tag": "sss8",
+      "patterns": [
+        "Aradınız yetişemedim. Size tekrar nasıl ulaşabilirim?",
+        "Telefona bakamadım. Sizi nasıl arayabilirim?",
+        "Size tekrar nasıl ulaşabilirim?",
+        "Aradığınızda müsait değildim. Sizi nasıl tekrar arayabilirim?"
+      ], 
+      "responses": [
+        "Sabit telefonlardan arandığında yetişemediysen, canlı destek uygulamamız Mavi’ye bağlanabilir ya da oisbizde@assistt.com.tr adresine e-posta ile durumu aktarabilirsin. İlgili arkadaşlarımız hızlıca yardımcı olacaktır."
+      ]
+    },
+    {
+      "tag": "sss9",
+      "patterns": [
+        "Sisteme giriş yaptığım e-posta ve şifremi unuttum, ne yapmalıyım?",
+        "Sisteme kayıtlı mail adresimi ve şifremi unuttum. Ne yapmalıyım?",
+        "Mail adresimi ve şifremi unuttum. Ne yapmalıyım?",
+        "Mail veya şifre sıfırlama işlemi nasıl yapılır?"
+      ], 
+      "responses": [
+        "Kariyer.assistt.com.tr sayfasında “Kullanıcı Girişi” bölümünden “Şifremi Unuttum” butonuna tıkladığında, e-posta bilgilerinle “Şifremi Sıfırla” alanına yönlendirilirsin. Sıfırlamak istediğinde “Şifre değişiklik bağlantısı e-posta adresinize gönderildi. ” bilgisi alırsın. Şifre yenileme e- posta adresine iletilmiştir, iletilen e-postadaki bağlantıya tıklayarak şifre yenileme işlemini gerçekleştirebilirsin."
+      ]
+    },
+    {
+      "tag": "sss10",
+      "patterns": [
+        "Sistemde kayıtlı e-posta adresim artık kullanılmıyor. Yeni e-posta nasıl ekleyebilirim?",
+        "E-posta adresimi değiştirmek istiyorum. Nasıl yapabilirim?",
+        "E-posta adresimi güncellemek istiyorum. Nasıl yapabilirim?"
+      ], 
+      "responses": [
+        "Öncelikle sisteme kayıtlı kullanıcı bilgilerini (e-posta ve şifre) kullanarak giriş yapman gerekli. Açılan sayfada “Özgeçmiş Bırak” butonuna tıklayarak, “Özgeçmişini Gözden Geçir” sekmesinden (iletişim, eğitim, deneyim gibi) bilgilerini değiştirebilirsin ancak e-posta kaydın bulunduğu için yeni e-posta oluşturarak özgeçmiş bırakabilir ya da başvuru yapabilirsin."
+      ]
+    },
+    {
+      "tag": "sss11",
+      "patterns": [
+        "Ön değerlendirme bağlantısı geçerliliğini yitirdi, ne yapmalıyım?",
+        "Sınav mesajı geçerliliğini yitirdi. Ne yapmalıyım?"
+      ], 
+      "responses": [
+        "Ön değerlendirme ataması yapılan kişiye, sistem otomatik olarak bir kısa mesaj gönderir. Ön değerlendirme davet kısa mesajını aldığında, tanımlanan saat aralıklarında kısa mesaj ile iletilen kodu girerek değerlendirmeleri tamamlamalısın. Belirtilen saatlerde değerlendirmeleri tamamlamadıysan, kod ve bağlantı geçerliliğini yitirir ve sistem değerlendirmelere erişmene izin vermez. Bu durumda, oisbizde@assistt.com.tr adresine e-posta göndererek yeniden aktivasyon yapılmasını ve ön değerlendirme süreçlerine katılmayı talep edebilirsin."
+      ]
+    },
+    {
+      "tag": "sss12",
+      "patterns": [
+        "Aktivasyon e-postası gelmedi, ne yapmalıyım?",
+        "Aktivasyon maili gelmedi. Ne yapmalıyım?",
+        "Aktivasyon maili yok. Ne yapmalıyım?"
+      ], 
+      "responses": [
+        "E-posta kutunun dolu olması, özgeçmişindeki e-posta hesabını değiştirmiş olman ya da harf hatası yapmış olma ihtimalin nedeniyle sana aktivasyon kodu ve giriş bağlantısı e-posta ile ulaştıramamış olabiliriz. Aktivasyon e-postası içeriği, telefonuna gönderilen kısa mesaj içeriği ile aynıdır. Eğer aktivasyon kodu ve giriş bağlantısı kısa mesaj ile ile aldıysan, e-posta almamış olman sorun yaratmaz."
+      ]
+    },
+    {
+      "tag": "sss13",
+      "patterns": [
+        "Teknik bir sorun yaşıyorum, ne yapmalıyım?",
+        "Teknik bir sorun yaşıyorum, nasıl yardım alabilirim?",
+        "Teknik bir sorun yaşıyorum, kimden destek alabilirim?",
+        "Teknik bir sorun var. Yardım alabilir miyim?"
+      ], 
+      "responses": [
+        "Teknik bir sorun yaşaman durumunda, canlı destek uygulamamız “Mavi” ya da help@flowq.com adresine bağlanarak anında destek alabilir ya da oisbizde@assistt.com.tr adresine e-posta yolu ile sorunu iletebilirsin. İlgili arkadaşlarımız sana en kısa sürede yardımcı olacaklardır."
+      ]
+    },
+    {
+      "tag": "sss14",
+      "patterns": [
+        "Tarafıma atanmış değerlendirmeler içerisinde yer alan interaktif mülakat için video kaydı oluşturup gönderemiyorum. Ne yapmalıyım?",
+        "Video kaydı oluşturup gönderemiyorum. Ne yapmalıyım?",
+        "Video kaydını gönderemiyorum.",
+        "Video kayıt gönderme sorunu var."
+      ], 
+      "responses": [
+        "Videonu çekmek için öncelikle “Kaydı Başlat” demen, kaydı bitirdiğinde sırasıyla “Kaydı durdur” - “Kaydı Gönder” ve “Tamam” demen gerekiyor, bir sorun yaşaman halinde farklı bir tarayıcı (chrome vb.) kullanmanı öneriyoruz. Sorun devam ederse help@flowq.com adresine bağlanarak anında destek alabilirsin."
+      ]
+    },
+    {
+      "tag": "sss15",
+      "patterns": [
+        "Klavye sınavına birden fazla giriş hakkım var mı? Kaydedip çıkınca kaldığım yerden devam edebilir miyim?",
+        "Klavye sınavına birden fazla giriş hakkım var mı?",
+        "Klavye sınavında kaydedip çıkınca kaldığım yerden devam edebilir miyim?",
+        "Klavye sınavında teknik bir sorun oluştuğunda ne yapmalıyım?"
+      ], 
+      "responses": [
+        "Herhangi bir teknik aksaklık yaşaman ya da teste ara vermen gerekmesi durumunda, toplam 5 kez giriş/çıkış yapabilirsin. Tekrar giriş/çıkış hakkına sahip olabilmen için “uygulamayı tamamla” demeden direkt uygulamayı kapatman gerekiyor. Uygulamayı kapatıp tekrar girdiğin zaman kaldığın süreden devam edebilirsin."
+      ]
+    },
+    {
+      "tag": "sss16",
+      "patterns": [
+        "Başvurumu geri çektiğimde aynı ilana tekrar başvurabilir miyim?",
+        "İptal ettiğim başvurumu tekrar yapabilir miyim?"
+      ], 
+      "responses": [
+        "Başvurunu geri çektiğinde başvurmuş olduğun aynı ilana tekrar başvuru yapamazsın."
+      ]
+    },
+    {
+      "tag": "veda",
+      "patterns": [
+        "Teşekkürler",
+        "Kolay gelsin",
+        "İyi günler",
+        "Hoşçakalın",
+        "İyi çalışmalar",
+        "Teşekkürler, iyi günler",
+        "Teşekkürler, iyi çalışmalar"
+      ],
+      "responses": [
+        "AssisTT'yi tercih ettiğiniz için teşekkür ederiz. İyi günler dilerim.",
+        "Başka bir sorunuz olursa bizi tekrar arayabilirsiniz. İyi günler!",
+        "Size yardımcı olabildiysem ne mutlu bana. Hoşçakalın!"
+      ]
+    }
+  ]
+}
