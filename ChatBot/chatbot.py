@@ -123,14 +123,14 @@ class ChatInterface(BoxLayout):
 
     def delayed_response(self, response, *args):
         self.remove_typing()
-        self.play_sound()  # Önce ses çal
-        self.add_message(response, False)  # Sonra bot mesajını ekle
+        self.play_sound() 
+        self.add_message(response, False) 
 
     def send_message(self):
         message = self.ids.message_input.text.strip()
         if message:
-            self.play_sound()  # Önce ses çal
-            self.add_message(message, True)  # Sonra mesaj ekle
+            self.play_sound() 
+            self.add_message(message, True)
             self.ids.message_input.text = ''
             
             try:
